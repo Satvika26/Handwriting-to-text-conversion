@@ -1,0 +1,15 @@
+Tools & Technologies: Python, OpenCV, PyTesseract, NumPy, Matplotlib
+
+Developed a robust OCR system to recognize handwritten text from image files as part of an AI internship. Implemented advanced image preprocessing techniques including grayscale conversion, Gaussian blurring, and adaptive thresholding to optimize text extraction accuracy.
+
+🔍 Key Contributions:
+
+Applied OpenCV for noise reduction and contour detection to isolate regions of interest.
+
+Integrated Tesseract OCR with custom configurations (psm and oem) to enhance recognition of handwritten characters.
+
+Designed a visualization dashboard to compare raw vs. processed image outputs for qualitative evaluation.
+
+Successfully extracted high-accuracy text from handwritten inputs, contributing to intelligent document-processing workflows.
+
+💡 Impact: Improved OCR accuracy and efficiency—laying the groundwork for scalable document automation solutions. Deepened proficiency in image processing and real-time Python-based AI tools.
